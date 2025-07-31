@@ -1,8 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>ClipBack Updates</title>
-        <description>ClipBack app updates</description>
-        <language>en</language>
+        <title>ClipBack</title>
+        <item>
+            <title>1.0</title>
+            <pubDate>Wed, 30 Jul 2025 22:41:00 -0400</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/aayush-kapoor/clipback-releases/releases/download/v1.0.5/ClipBack_1.0_5.dmg" length="2053072" type="application/octet-stream" sparkle:edSignature="yKnUVp2lKbyfXU+DyN14eYYQsMFrOPB9MXD73rlEFzjPjBGS3CCxosRkep4wjlCI3zq8FJJ9Ms8Su4CsFz6zDg=="/>
+        </item>
     </channel>
 </rss>
