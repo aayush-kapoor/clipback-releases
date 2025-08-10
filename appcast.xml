@@ -4,11 +4,11 @@
         <title>ClipBack</title>
         <item>
             <title>1.1</title>
-            <pubDate>Sun, 10 Aug 2025 00:41:59 -0500</pubDate>
-            <sparkle:version>18</sparkle:version>
+            <pubDate>Sun, 10 Aug 2025 15:31:01 -0500</pubDate>
+            <sparkle:version>19</sparkle:version>
             <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/aayush-kapoor/clipback-releases/releases/download/v1.1.18/ClipBack_1.1_18.dmg" length="6917473" type="application/octet-stream" sparkle:edSignature="ebUxSRXpYGWZ6Nq0VJTXOjCuZnITQgko1ZloKRt4ioF+0nHt/9B5Wc9xToXC846W2Zk7e59VK6nrLCWoNjPNBg=="/>
+            <enclosure url="https://github.com/aayush-kapoor/clipback-releases/releases/download/v1.1.19/ClipBack_1.1_19.dmg" length="6942277" type="application/octet-stream" sparkle:edSignature="dBqN+UFiLOG8YWn/kNZtaMxZm4eFftn1D+Q9vpriAfBDUOMkfVuPEstS9vgoPGNA1/Q5/8fUTQbZQHaILuYKBA=="/>
         </item>
     </channel>
 </rss>
