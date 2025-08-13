@@ -1,14 +1,14 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>ClipBack</title>
+        <title>Timeless</title>
         <item>
             <title>1.1</title>
-            <pubDate>Sun, 10 Aug 2025 15:31:01 -0500</pubDate>
-            <sparkle:version>19</sparkle:version>
+            <pubDate>Wed, 13 Aug 2025 18:26:49 -0400</pubDate>
+            <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/aayush-kapoor/clipback-releases/releases/download/v1.1.19/ClipBack_1.1_19.dmg" length="6942277" type="application/octet-stream" sparkle:edSignature="dBqN+UFiLOG8YWn/kNZtaMxZm4eFftn1D+Q9vpriAfBDUOMkfVuPEstS9vgoPGNA1/Q5/8fUTQbZQHaILuYKBA=="/>
+            <enclosure url="https://github.com/aayush-kapoor/clipback-releases/releases/download/v2.1.2/Timeless_1.1_2.dmg" length="4888534" type="application/octet-stream" sparkle:edSignature="eZQwUFaYiihPqwo7UN8fOe5IrjNn6SguWU2l1F+BPArV24WfZAJUmTatMwqh7QmkUopFeiZQ96YPBG8GEQbZCQ=="/>
         </item>
     </channel>
 </rss>
