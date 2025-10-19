@@ -4,11 +4,11 @@
         <title>Timeless</title>
         <item>
             <title>1.1</title>
-            <pubDate>Wed, 15 Oct 2025 00:23:24 -0400</pubDate>
-            <sparkle:version>16</sparkle:version>
+            <pubDate>Sun, 19 Oct 2025 18:13:47 -0400</pubDate>
+            <sparkle:version>17</sparkle:version>
             <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/aayush-kapoor/clipback-releases/releases/download/v2.1.16/Timeless_1.1_16.dmg" length="6025538" type="application/octet-stream" sparkle:edSignature="j5h+fQNBEiKjmB+FVLT0CKNLqA377FuNmE8iQX//NQGXS3Khb3GRrKYKB73sHKD4YrEBSxJbCifNvKStba26CA=="/>
+            <enclosure url="https://github.com/aayush-kapoor/clipback-releases/releases/download/v2.1.17/Timeless_1.1_17.dmg" length="6072783" type="application/octet-stream" sparkle:edSignature="ZukXQp09ypxXAy5lMYUWmeIyo691bospATuQXzeY/ZRZRmHDo7z5athq4fQs9syYIxxAARNZyj+ns4tgTYE4CQ=="/>
         </item>
     </channel>
 </rss>
